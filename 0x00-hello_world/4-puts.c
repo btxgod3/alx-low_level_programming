@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - Prints the statement "Programming is like buidling a multilingual puzzle"
- * Return : 0
+ * main - Prints "Programming is like buidling a multilingual puzzle"
+ * Return : 0 always (success)
  */
-int main(){
-	puts("\"Programming is like building a multilingual puzzle\n");
+int main()
+{
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
