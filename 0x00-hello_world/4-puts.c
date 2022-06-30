@@ -3,7 +3,7 @@
 /**
  * main - Prints "Programming is like buidling a multilingual puzzle"
  *
- * Return : Always 0 (success)
+ * Return: 0 if exited properly, non-zero otherwise
  */
 int main(void)
 {
