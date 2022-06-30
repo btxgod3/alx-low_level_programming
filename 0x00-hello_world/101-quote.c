@@ -5,7 +5,7 @@
  * main - prints exactly "and that piece of art is useful"
  * "Dpora Korpar, 2015-10-19"
  *
- * Return :Always 0 (success)
+ * Return: Always 0 (success)
  */
 
 int main(void)
