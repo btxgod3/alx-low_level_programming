@@ -2,6 +2,7 @@
 
 /**
  * main - Prints "Programming is like buidling a multilingual puzzle"
+ *
  * Return : Always 0 (success)
  */
 int main(void)
