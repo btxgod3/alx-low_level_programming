@@ -3,7 +3,6 @@
 /**
  * main - check code here
  *
- *
  * Return: Always 0.
  */
 
